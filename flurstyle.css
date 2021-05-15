@@ -1,0 +1,55 @@
+.flurmain {
+	font-family: 'Sacramento', cursive;	
+	margin: 5px 25px 0px 25px;
+	text-align: center;
+	font-size: 45px;
+	color: #2D3E44;
+}
+
+.navbar {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
+
+ 
+  
+.herostyles{
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	
+}
+.titlestyle{
+	font-family: 'Oswald', sans-serif;
+	color: #2D3E44;
+	background-color: #ffeadb
+	font-size: 40px;
+}
+
+.ctextstyle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 17px;
+	color: #2D3E44;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.herbstyle {
+	font-family:'Oswald', sans-serif;
+	color: #2D3E44;
+	font-size: 17px;
+}
+
+.contactbody {
+	font-family: 'Oswald', sans-serif;
+	color: #2D3E44;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #ebebeb;
+  padding: 20px;
+  margin-top: 10px;
+}
